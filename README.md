@@ -1,1 +1,1 @@
-# 25TH2526-BaiThi_QuanLySinhVienCNTT
+# 25TH2526-BaiThi_FlashcardHocTuVungTiengAnh
