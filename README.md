@@ -95,10 +95,12 @@ Dự án được phát triển bằng các công nghệ sau:
 Ứng dụng bao gồm các màn hình:
 
 1. Màn hình chính.
+manhinhchinh.png.png
+
 2. Màn hình học từ vựng.
-3. Màn hình trắc nghiệm.
-4. Màn hình từ cần ôn tập.
-5. Màn hình thống kê.
+4. Màn hình trắc nghiệm.
+5. Màn hình từ cần ôn tập.
+6. Màn hình thống kê.
 <img width="334" height="736" alt="image" src="https://github.com/user-attachments/assets/f36394ca-1d34-40c9-896d-1ca76bdfcde3" />
 
 
