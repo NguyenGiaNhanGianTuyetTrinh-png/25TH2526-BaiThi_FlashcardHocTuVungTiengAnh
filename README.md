@@ -100,7 +100,8 @@ Dự án được phát triển bằng các công nghệ sau:
 2. Màn hình học từ vựng.
    
 3. Màn hình trắc nghiệm.
-   
+   <img width="334" height="736" alt="image" src="https://github.com/user-attachments/assets/0967430e-69be-4a15-849f-94f1198bdc10" />
+
 4. Màn hình từ cần ôn tập.
    
 5. Màn hình thống kê.
