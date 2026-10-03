@@ -95,7 +95,7 @@ Dự án được phát triển bằng các công nghệ sau:
 Ứng dụng bao gồm các màn hình:
 
 1. Màn hình chính.
-https://github.com/NguyenGiaNhanGianTuyetTrinh-png/25TH2526-BaiThi_FlashcardHocTuVungTiengAnh/blob/e1b755009c602dcb6f90a71d50ce55ec25aaba46/manhinhchinh.png.png
+
 2. Màn hình học từ vựng.
 4. Màn hình trắc nghiệm.
 5. Màn hình từ cần ôn tập.
