@@ -96,14 +96,9 @@ Dự án được phát triển bằng các công nghệ sau:
 
 1. Màn hình chính.
   <img width="334" height="736" alt="image" src="https://github.com/user-attachments/assets/d83992e2-75b5-40b8-9a20-ace059577583" />
-
 2. Màn hình học từ vựng.
-   
 3. Màn hình trắc nghiệm.
-   <img width="334" height="736" alt="image" src="https://github.com/user-attachments/assets/0967430e-69be-4a15-849f-94f1198bdc10" />
-
 4. Màn hình từ cần ôn tập.
-   
 5. Màn hình thống kê.
 
 ---
